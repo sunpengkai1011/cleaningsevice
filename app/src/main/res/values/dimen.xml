@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="high_title_bar">60dp</dimen>
+    <dimen name="width_title_bar_btn">60dp</dimen>
+    <dimen name="size_title_bar_left_btn">20dp</dimen>
+    <dimen name="size_title_bar_right_btn">30dp</dimen>
+
+    <dimen name="margin_horizontal">20dp</dimen>
+
+    <dimen name="high_general_btn">50dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="textSize_large">24sp</dimen>
+    <dimen name="textSize_big">20sp</dimen>
+    <dimen name="textSize_middle">18sp</dimen>
+    <dimen name="textSize_standard">16sp</dimen>
+    <dimen name="textSize_small">14sp</dimen>
+</resources>
